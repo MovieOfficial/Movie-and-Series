@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movi-and-series/static/css/main.a1fae41b.chunk.css",
+    "main.js": "/movi-and-series/static/js/main.c31d8f26.chunk.js",
+    "main.js.map": "/movi-and-series/static/js/main.c31d8f26.chunk.js.map",
+    "runtime-main.js": "/movi-and-series/static/js/runtime-main.fc5381fa.js",
+    "runtime-main.js.map": "/movi-and-series/static/js/runtime-main.fc5381fa.js.map",
+    "static/css/2.02daa001.chunk.css": "/movi-and-series/static/css/2.02daa001.chunk.css",
+    "static/js/2.6ddba267.chunk.js": "/movi-and-series/static/js/2.6ddba267.chunk.js",
+    "static/js/2.6ddba267.chunk.js.map": "/movi-and-series/static/js/2.6ddba267.chunk.js.map",
+    "index.html": "/movi-and-series/index.html",
+    "service-worker.js": "/movi-and-series/service-worker.js",
+    "service-worker.js.map": "/movi-and-series/service-worker.js.map",
+    "static/css/2.02daa001.chunk.css.map": "/movi-and-series/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.a1fae41b.chunk.css.map": "/movi-and-series/static/css/main.a1fae41b.chunk.css.map",
+    "static/js/2.6ddba267.chunk.js.LICENSE.txt": "/movi-and-series/static/js/2.6ddba267.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc5381fa.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.6ddba267.chunk.js",
+    "static/css/main.a1fae41b.chunk.css",
+    "static/js/main.c31d8f26.chunk.js"
+  ]
+}
